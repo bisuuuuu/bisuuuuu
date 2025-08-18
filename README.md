@@ -6,7 +6,7 @@
 ### 👨‍🎓 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at ITER, SOA University  
 - 💡 Interested in **MERN stack, AI, and scalable systems**  
-- 🛠️ Skilled in **Java, C, Devops, MySQL**  
+- 🛠️ Skilled in **Java, C,python, Devops, MongoDB,MySQL**  
 - 🌍 Love solving **real-world problems through code**  
 - ✨ Motto: *“Build, Break, Learn, Repeat”*  
 - 📧 Reach me at **biswaprakash1836@gmail.com**
