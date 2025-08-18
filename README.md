@@ -10,7 +10,7 @@
 - 🌍 Love solving **real-world problems through code**  
 - ✨ Motto: *“Build, Break, Learn, Repeat”*  
 - 📧 Reach me at **biswaprakash1836@gmail.com**
-
+- 📧 Reach me at **biswaprakash1836@gmail.com**
 ---
 
 ### 🌐 Connect With Me  
