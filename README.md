@@ -10,7 +10,7 @@
 - 🌍 Love solving **real-world problems through code**  
 - ✨ Motto: *“Build, Break, Learn, Repeat”*  
 - 📧 Reach me at **biswaprakash1836@gmail.com**
-- 📧 Visit - **https://calm-unicorn-03dacf.netlify.app/**
+- 📧 Visit - **biswaaaaa-portfolio.netlify.app**
 ---
 
 ### 🌐 Connect With Me  
