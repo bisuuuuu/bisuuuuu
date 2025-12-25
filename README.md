@@ -15,7 +15,7 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://instagram.com/_mr_biswa.prakash__" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://instagram.com/biswa.routt" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="https://www.linkedin.com/in/biswa-rout-4aaa69235/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/Biswa81933651" target="blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
